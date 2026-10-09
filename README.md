@@ -23,13 +23,13 @@ With a background in mobile development, I turn everyday friction into useful so
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [AI Tag Curator](https://github.com/qmkCamel/obsidian-ai-tag-curator)
 
 Keep an Obsidian tag library coherent with AI recommendations, health reports, and reversible cleanup.
 
-<a href="https://github.com/qmkCamel/obsidian-ai-tag-curator"><img src="https://raw.githubusercontent.com/qmkCamel/obsidian-ai-tag-curator/main/docs/images/tag-health-report-ai-actions.png" alt="AI Tag Curator showing tag health recommendations in Obsidian" width="280"></a>
+<a href="https://github.com/qmkCamel/obsidian-ai-tag-curator"><img src="https://raw.githubusercontent.com/qmkCamel/obsidian-ai-tag-curator/main/docs/images/tag-health-report-ai-actions.png" alt="AI Tag Curator showing tag health recommendations in Obsidian" height="220"></a>
 
 **Obsidian · TypeScript**  
 Remote and local model connections.
@@ -37,32 +37,18 @@ Remote and local model connections.
 [Explore →](https://github.com/qmkCamel/obsidian-ai-tag-curator#readme)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### [Scheduled Calendar](https://github.com/qmkCamel/scheduled-calendar)
+### [photo-cleaner](https://github.com/qmkCamel/photo-cleaner)
 
-See existing local Codex automations in week, month, and agenda views. No task migration needed.
+TrueKeep / 留真 — clean up your iPhone photo library with on-device analysis, a Review Bin, and confirmation before deletion.
 
-<a href="https://github.com/qmkCamel/scheduled-calendar"><img src="https://raw.githubusercontent.com/qmkCamel/scheduled-calendar/main/plugins/scheduled-calendar/assets/calendar-demo-en.png" alt="Scheduled Calendar month view with synthetic demo tasks" width="280"></a>
+<a href="https://github.com/qmkCamel/photo-cleaner"><img src="https://raw.githubusercontent.com/qmkCamel/photo-cleaner/main/iOS/TrueKeep/MarketingScreenshots/2026-06-13-1811-photo-video-copy/04-home-review-queue.png" alt="TrueKeep photo cleanup tasks ready for review" height="220"></a>
 
-**Codex plugin · Beta**  
-Read-only access to local schedules.
+**iOS · SwiftUI · MVP**  
+Keep the photos that matter. Analysis stays on your device.
 
-[Try the beta →](https://github.com/qmkCamel/scheduled-calendar#installation)
-
-</td>
-<td width="33%" valign="top">
-
-### [Sessionary](https://github.com/qmkCamel/sessionary)
-
-Turn scattered AI coding sessions into a daily ledger of projects, timelines, and work to follow up.
-
-<a href="https://github.com/qmkCamel/sessionary"><img src="https://raw.githubusercontent.com/qmkCamel/sessionary/main/docs/images/today-dashboard.png" alt="Sessionary Today dashboard for reviewing AI coding sessions" width="280"></a>
-
-**Desktop · Early MVP**  
-Local-first review for Codex and Claude Code sessions.
-
-[Explore →](https://github.com/qmkCamel/sessionary#readme)
+[Explore →](https://github.com/qmkCamel/photo-cleaner#readme)
 
 </td>
 </tr>
